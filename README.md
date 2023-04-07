@@ -20,5 +20,7 @@
 
 Решение задачи находится в файле GeekBrainsTest/GeekTest.cs
 
+Блок схема метода находится в файле TwoArrays.pdf
+
 
 
